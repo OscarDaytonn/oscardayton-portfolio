@@ -21,8 +21,8 @@ computer programming 1- focuses on processing and java.
 
 ### Calculator 
 ![Calculator screenshot](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Images/calculator%20screanshot.png?raw=true)
-[Calculator code](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Text/Calculator%20text.txt)
 
+[Calculator code](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Text/Calculator%20text.txt)
 * Description 
 
 
