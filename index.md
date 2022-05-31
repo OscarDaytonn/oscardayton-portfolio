@@ -6,7 +6,7 @@ My email is oscardayton06@gmail.com
 ## Processing Projects
 
 ### Screensaver
-![screensaver screenshot](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Images/screensaver98.png)
+![screensaver screenshot](https://github.com/OscarDaytonn/oscardayton-portfolio/raw/gh-pages/Images/screensaver98.png)
 [screensaver code](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Text/Screensaver%20text.txt)
 * Description 
 lines will appear on your screan randomly with no specific color aor size.
