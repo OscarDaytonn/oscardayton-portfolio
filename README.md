@@ -19,6 +19,6 @@ computer programming 1- focuses on processing and java.
 * Description 
 
 ### Group Project 2048 Clone  
-![Group Project 2048 Clone screenshot](![image](https://user-images.githubusercontent.com/103709131/171251669-7f9cedae-ef78-47a7-b887-7fee98c819ce.png)
+![Group Project 2048 Clone screenshot](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Images/Tile.png?raw=true)
 [Group Project 2048 Clone code](https://github.com/OscarDaytonn/oscardayton-portfolio/blob/gh-pages/Text/2048%20text.txt)
 
